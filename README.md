@@ -40,9 +40,3 @@ PulsePuzzle is an engaging and challenging puzzle game that tests your reflexes 
 2. **Controls:** Use your mouse or touchscreen to interact with the puzzle elements.
 3. **Time Pressure:** Be mindful of the time limit; the faster you solve, the higher your score.
 4. **Level Up:** Progress through different levels, each presenting a new challenge.
-
-
-
----
-
-Feel free to customize and expand upon this template based on the specific details of your PulsePuzzle project. Add more sections or information as needed.
